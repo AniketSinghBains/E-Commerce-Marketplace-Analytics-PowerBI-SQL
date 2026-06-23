@@ -121,7 +121,7 @@ Key tables used:
 
 ## Executive Overview
 
-![Executive Overview](exucutive_dashboard.png)
+![Executive Overview](Images/exucutive_dashboard.png)
 
 ---
 
