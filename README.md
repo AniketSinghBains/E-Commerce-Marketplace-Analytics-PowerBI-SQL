@@ -127,7 +127,7 @@ Key tables used:
 
 ## Customer Analytics
 
-![Customer Analytics](customer_dashboard.png)
+![Customer Analytics](Images/customer_dashboard.png)
 
 ---
 
