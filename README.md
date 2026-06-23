@@ -133,4 +133,4 @@ Key tables used:
 
 ## Product & Seller Analytics
 
-![Product & Seller Analytics](product_dashboard.png)
+![Product & Seller Analytics](Images/product_dashboard.png)
