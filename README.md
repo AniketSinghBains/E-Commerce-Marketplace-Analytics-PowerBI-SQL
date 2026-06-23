@@ -134,3 +134,71 @@ Key tables used:
 ## Product & Seller Analytics
 
 ![Product & Seller Analytics](Images/product_dashboard.png)
+
+
+# Tech Stack
+
+- Power BI
+- SQL
+- DAX
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+- Data Analytics
+
+# Project Structure
+
+```text
+E-Commerce-Marketplace-Analytics-PowerBI-SQL
+│
+├── images/
+│   ├── exucutive_dashboard.png
+│   ├── customer_dashboard.png
+│   └── product_dashboard.png
+│
+├── sql/
+│   └── business_analysis_queries.sql
+│
+└── README.md
+```
+
+# Dashboard Pages
+
+### 1. Executive Overview
+- Total Revenue
+- Total Customers
+- Total Orders
+- Average Order Value (AOV)
+- Average Delivery Days
+- Monthly Revenue Trend
+- Monthly Orders Trend
+- Order Status Distribution
+- Top Product Categories
+
+### 2. Customer Analytics
+- Total Customers
+- Revenue Per Customer
+- Repeat Customers
+- Repeat Customer %
+- Top Cities by Revenue
+- Top Cities by Orders
+- Customer Growth Trend
+- Top States by Customers
+
+### 3. Product & Seller Analytics
+- Total Sellers
+- Total Products
+- Revenue Per Seller
+- Top Product Categories by Revenue
+- Monthly Product Revenue Trend
+- Top States by Product Revenue
+
+# Key Business Insights
+
+- Revenue crossed ₹13.59M across the marketplace.
+- Health & Beauty generated the highest category revenue.
+- São Paulo contributed the largest share of customers and revenue.
+- Repeat customers accounted for approximately 3.12% of total customers.
+- Delivered orders represented more than 97% of all orders.
+- Product demand and revenue showed steady growth over time.
+
