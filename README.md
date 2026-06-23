@@ -121,16 +121,19 @@ Key tables used:
 
 ## Executive Overview
 
-![Executive Overview](images/exucutive_dashboard.png)
+![Executive Overview](<img width="1890" height="1077" alt="exucutive_dashboard" src="https://github.com/user-attachments/assets/2337af0c-9b57-4d6a-9e3b-d80364b543c2" />
+)
 
 ---
 
 ## Customer Analytics
 
-![Customer Analytics](images/customer_dashboard.png)
+![Customer Analytics](<img width="1918" height="1072" alt="customer_dashboard" src="https://github.com/user-attachments/assets/75257ca8-b997-4112-9f04-f05f95698c26" />
+)
 
 ---
 
 ## Product & Seller Analytics
 
-![Product & Seller Analytics](images/product_dashboard.png)
+![Product & Seller Analytics](<img width="1918" height="1077" alt="product_dashboard" src="https://github.com/user-attachments/assets/73f926a8-e24a-4d70-a952-3ba73c84dca1" />
+)
