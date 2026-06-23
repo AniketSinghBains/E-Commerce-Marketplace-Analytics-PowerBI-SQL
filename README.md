@@ -117,3 +117,20 @@ Key tables used:
 * What are the major revenue and order trends?
 * Where are the biggest opportunities for growth and retention?
 
+# Dashboard Preview
+
+## Executive Overview
+
+![Executive Overview](images/exucutive_dashboard.png)
+
+---
+
+## Customer Analytics
+
+![Customer Analytics](images/customer_dashboard.png)
+
+---
+
+## Product & Seller Analytics
+
+![Product & Seller Analytics](images/product_dashboard.png)
