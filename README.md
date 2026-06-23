@@ -202,3 +202,59 @@ E-Commerce-Marketplace-Analytics-PowerBI-SQL
 - Delivered orders represented more than 97% of all orders.
 - Product demand and revenue showed steady growth over time.
 
+# Skills Demonstrated
+
+- SQL Joins
+- SQL Aggregations
+- Window Functions
+- Business KPI Analysis
+- Data Modeling
+- DAX Measures
+- Power BI Dashboard Development
+- Data Visualization
+- Customer Analytics
+- Product Analytics
+- Business Intelligence Reporting
+
+# Business Impact & Recommendations
+
+## Business Problem
+
+The marketplace generates millions in revenue across multiple product categories, sellers, customers, and regions. However, business leaders need visibility into revenue concentration, customer behavior, seller performance, and growth trends to make data-driven decisions.
+
+## Analytical Approach
+
+* Performed SQL-based exploratory business analysis.
+* Built a relational data model in Power BI.
+* Created DAX measures for revenue, orders, customers, AOV, repeat customers, and seller performance.
+* Designed interactive dashboards for executive, customer, and product-level decision making.
+
+## Key Findings
+
+* A small number of product categories contribute a significant share of total revenue.
+* Revenue is concentrated in a limited number of cities and states.
+* Repeat customer percentage is relatively low, indicating customer retention opportunities.
+* Marketplace growth accelerated significantly during the analyzed period.
+* A small group of sellers contributes disproportionately to overall revenue.
+
+## Recommendations
+
+### Increase Customer Retention
+
+Implement loyalty programs, personalized offers, and remarketing campaigns to improve repeat purchases.
+
+### Focus on High-Performing Categories
+
+Allocate additional marketing budget toward top-performing product categories with proven demand.
+
+### Geographic Expansion
+
+Identify underpenetrated regions and expand seller and customer acquisition efforts.
+
+### Seller Development
+
+Provide incentives and operational support to high-performing sellers while helping mid-tier sellers scale.
+
+### Executive Monitoring
+
+Track revenue growth, customer growth, repeat customer rate, and seller concentration on an ongoing basis.
