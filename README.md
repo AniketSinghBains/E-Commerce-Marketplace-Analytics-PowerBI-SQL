@@ -1,6 +1,8 @@
-# E-Commerce Marketplace Analytics Dashboard (Power BI + SQL)
+# 🚀 E-Commerce Marketplace Analytics Dashboard (Power BI + SQL)
 
-## Project Overview
+---
+
+## 📌 Project Overview
 
 This project analyzes a real-world e-commerce marketplace dataset from Olist (Brazilian E-Commerce Dataset) using SQL and Power BI.
 
@@ -16,7 +18,7 @@ The project follows a business-oriented analytics approach commonly used by Data
 
 The final solution includes an interactive Power BI dashboard with Executive Overview, Customer Analytics, and Product & Seller Analytics pages supported by SQL-based business analysis.
 
-## Dataset
+## 📊 Dataset
 
 **Dataset Name:** Brazilian E-Commerce Public Dataset by Olist
 
@@ -36,7 +38,7 @@ Key tables used:
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * SQL (MySQL)
 * Power BI
@@ -47,7 +49,7 @@ Key tables used:
 
 ---
 
-## Dashboard Pages
+## 📷 Dashboard Pages
 
 ### 1. Executive Overview
 
@@ -76,7 +78,7 @@ Key tables used:
 * Top Sellers by Revenue
 * Revenue Contribution Analysis
 
-## Key Business Insights
+## 💡Key Business Insights
 
 ### Revenue Performance
 
@@ -146,7 +148,7 @@ Key tables used:
 - Business Intelligence
 - Data Analytics
 
-# Project Structure
+# 📁 Project Structure
 
 ```text
 E-Commerce-Marketplace-Analytics-PowerBI-SQL
@@ -216,9 +218,9 @@ E-Commerce-Marketplace-Analytics-PowerBI-SQL
 - Product Analytics
 - Business Intelligence Reporting
 
-# Business Impact & Recommendations
+# 🎯 Business Impact & Recommendations
 
-## Business Problem
+## 📊 Business Problem
 
 The marketplace generates millions in revenue across multiple product categories, sellers, customers, and regions. However, business leaders need visibility into revenue concentration, customer behavior, seller performance, and growth trends to make data-driven decisions.
 
@@ -258,3 +260,15 @@ Provide incentives and operational support to high-performing sellers while help
 ### Executive Monitoring
 
 Track revenue growth, customer growth, repeat customer rate, and seller concentration on an ongoing basis.
+
+---
+
+## 👨‍💻 Author
+
+**Aniket Singh**
+
+Data Analytics | SQL | Power BI | Python | Business Intelligence
+
+LinkedIn: [https://www.linkedin.com/in/aniket-singh-332004270/]
+
+GitHub: [https://github.com/AniketSinghBains]
